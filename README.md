@@ -15,9 +15,11 @@ I do smaller projects from time to time.
 
 Feel free to browse around and contact me if you have any questions or suggestions.
 
-## Skills
+## Languages
 
-- **Languages:** ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
 
 ## Projects
 
@@ -25,9 +27,15 @@ Feel free to browse around and contact me if you have any questions or suggestio
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Flixxx-Felix&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flixxx-Felix&layout=compact)
+<p>
+ <a href=https://github.com/Flixxx-Felix> <img width="420" src=https://github-readme-stats.vercel.app/api?username=Flixxx-Felix&count_private=true&show_icons=true&title_color=00FFB6&text_color=ffffff&icon_color=00FFB6&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false><a>
+</p>
 
 ## Connect with Me
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/358713209634422784)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mail@flixxx-felix.de)
+
+
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate on any projects.
