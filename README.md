@@ -17,9 +17,12 @@ Feel free to browse around and contact me if you have any questions or suggestio
 
 ## Languages
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)  
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=white)  
+![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00.svg?style=flat&logo=svelte&logoColor=white)  
+
 
 ## Projects
 
