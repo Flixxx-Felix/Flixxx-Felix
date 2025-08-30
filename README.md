@@ -22,7 +22,7 @@ Feel free to browse around and contact me if you have any questions or suggestio
 
 ## Projects
 
-- **[FXH-Website](https://hallerfelix.de)** (Not Open Source): It is actually a simple responsive website that was created with HTML and CSS.
+- **[FXH-Website](https://hallerfelix.de):** It is actually a simple responsive website that was created with HTML and CSS.
 
 ## GitHub Stats
 
